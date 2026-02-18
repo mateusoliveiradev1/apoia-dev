@@ -35,8 +35,7 @@
 ## 📸 Preview
 
 <div align="center">
-  <!-- Substitua este link por um GIF ou Screenshot real do seu projeto -->
-  <img src="https://placehold.co/1200x600/18181b/FFF?text=Dashboard+Preview&font=montserrat" alt="Project Screenshot" width="100%" style="border-radius: 10px; box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1), 0 2px 4px -1px rgba(0, 0, 0, 0.06);" />
+  <img src="https://imgur.com/a/WH27svw" alt="Project Screenshot" width="100%" style="border-radius: 10px; box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1), 0 2px 4px -1px rgba(0, 0, 0, 0.06);" />
 </div>
 
 <br />
@@ -210,10 +209,13 @@ Este projeto está sob a licença **MIT**. Veja o arquivo [LICENSE](LICENSE) par
 
 <div align="center">
   <br />
-  <img src="https://github.com/mateusoliveiradev1.png" width="60" style="border-radius: 50%;" alt="Avatar Mateus Oliveira" />
+  <img src="https://i.imgur.com/WH27svw.png" width="150" style="border-radius: 10px; box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1);" alt="Avatar Mateus Oliveira" />
+  <br />
+  <br />
+  
   <p>Desenvolvido com 💜 por <strong><a href="https://github.com/mateusoliveiradev1">Mateus Oliveira</a></strong></p>
   
-  <a href="https://www.linkedin.com/in/mateusoliveira">
+  <a href="https://www.linkedin.com/in/mateus-oliveira-430659281/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://github.com/mateusoliveiradev1">
