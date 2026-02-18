@@ -17,6 +17,14 @@
     <br />
     Sem burocracias. Apenas código e café. ☕
   </p>
+
+  <p align="center">
+    <a href="#-funcionalidades">Funcionalidades</a> •
+    <a href="#-tech-stack">Tech Stack</a> •
+    <a href="#-começando">Começando</a> •
+    <a href="#-estrutura-do-projeto">Estrutura</a> •
+    <a href="#-contribuindo">Contribuindo</a>
+  </p>
 </div>
 
 <br />
@@ -52,14 +60,12 @@ Siga os passos abaixo para rodar o projeto localmente.
 ### Instalação
 
 1. **Clone o repositório**
-
    ```bash
-   git clone https://github.com/seu-usuario/apoia-dev.git
+   git clone https://github.com/mateusoliveiradev1/apoia-dev.git
    cd apoia-dev
    ```
 
 2. **Instale as dependências**
-
    ```bash
    npm install
    ```
@@ -81,14 +87,12 @@ Siga os passos abaixo para rodar o projeto localmente.
    ```
 
 4. **Configure o Banco de Dados**
-
    ```bash
    npx prisma generate
    npx prisma migrate dev
    ```
 
 5. **Rode o projeto**
-
    ```bash
    npm run dev
    ```
