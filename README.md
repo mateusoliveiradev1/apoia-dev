@@ -121,5 +121,5 @@ Contribuições são sempre bem-vindas! Sinta-se à vontade para abrir uma issue
 ---
 
 <div align="center">
-  Feito com 💜 por <a href="https://github.com/seu-usuario">Você</a>
+  Feito com 💜 por <a href="https://github.com/mateusoliveiradev1">Mateus Oliveira</a>
 </div>
